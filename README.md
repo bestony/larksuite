@@ -1,6 +1,4 @@
-Please see [this repo](https://github.com/laravel-notification-channels/channels) for instructions on how to submit a channel proposal.
-
-# A Boilerplate repo for contributions
+# Laravel Notification for [Larksuite](https://larksuite.com)
 
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/laravel-notification-channels/larksuite.svg?style=flat-square)](https://packagist.org/packages/laravel-notification-channels/larksuite)
 [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE.md)
@@ -11,7 +9,7 @@ Please see [this repo](https://github.com/laravel-notification-channels/channels
 [![Code Coverage](https://img.shields.io/scrutinizer/coverage/g/laravel-notification-channels/larksuite/master.svg?style=flat-square)](https://scrutinizer-ci.com/g/laravel-notification-channels/larksuite/?branch=master)
 [![Total Downloads](https://img.shields.io/packagist/dt/laravel-notification-channels/larksuite.svg?style=flat-square)](https://packagist.org/packages/laravel-notification-channels/larksuite)
 
-This package makes it easy to send notifications using [Larksuite](link to service) with Laravel 5.5+, 6.x and 7.x
+This package makes it easy to send notifications using [Larksuite](https://larksuite.com/) with Laravel 5.5+, 6.x and 7.x
 
 
 This is where your description should go. Add a little code example so build can understand real quick how the package can be used. Try and limit it to a paragraph or two.
