@@ -1,0 +1,40 @@
+{
+    "name": "laravel-notification-channels/larksuite",
+    "description": "Laravel Notification Channel over Larksuite.com",
+    "homepage": "https://github.com/laravel-notification-channels/larksuite",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Bestony",
+            "email": "bestony@linux.com",
+            "homepage": "https://www.ixiqin.com",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=7.2",
+        "illuminate/notifications": "~6.0 || ~7.0 || ~8.0",
+        "illuminate/support": "~6.0 || ~7.0 || ~8.0"
+    },
+    "require-dev": {
+        "mockery/mockery": "^1.0",
+        "phpunit/phpunit": "^9.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "NotificationChannels\\Larksuite\\": "src"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "NotificationChannels\\Larksuite\\Test\\": "tests"
+        }
+    },
+    "scripts": {
+        "test": "phpunit",
+        "test:coverage": "phpunit --coverage-text --coverage-clover=coverage.clover"
+    },
+    "config": {
+        "sort-packages": true
+    }
+}
